@@ -1,0 +1,91 @@
+{
+    "version": "1.2.14",
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "MAINTENANCE_MODE": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antists.sqlite"
+        }
+    },
+    "notiGroup": false,
+    "NOTIFICATION": true,
+    "allowInbox": false,
+    "commandDisabled": [
+        "goibot.js"
+    ],
+    "eventDisabled": [],
+    "autoClean": true,
+    "adminOnly": false,
+    "UPTIME": 1231526.035836716,
+    "ACCESSTOKEN": "",
+    "BOTNAME": "chatbot",
+    "AMDIN_NAME": "Đào Ngọc Nguyên",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/hieukwaii.2000",
+    "MESSENGER_ADMIN": "m.me/hieukawaii.2000",
+    "ZALO_ADMIN": "082xxxxxx88",
+    "PREFIX": ".",
+    "ADMINBOT": [
+        "100075885595966",
+        "",
+        "100001624277957"
+    ],
+    "NDH": [
+        ""
+    ],
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 90
+        }
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "cavee": {
+        "cooldownTime": 100000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000000
+    },
+    "kiemtien": {
+        "cooldownTime": 1800000
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    }
+}
