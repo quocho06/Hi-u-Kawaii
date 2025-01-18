@@ -25,9 +25,7 @@
     "notiGroup": false,
     "NOTIFICATION": true,
     "allowInbox": false,
-    "commandDisabled": [
-        "goibot.js"
-    ],
+    "commandDisabled": [],
     "eventDisabled": [],
     "autoClean": true,
     "adminOnly": false,
